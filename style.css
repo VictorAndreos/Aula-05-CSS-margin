@@ -1,0 +1,28 @@
+/*
+
+Forma colocando cada medida separado 
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+marging-right: 30px;
+
+/*
+forma colocando o mesmo valor no toppo e las laterais 
+margin: 30px 15px;
+
+
+ /* Essa seria a forma colocando o mesmo valor de todos os lados  
+margin: 30px
+*/
+html{
+    background-color: black;
+    color: #ff0095;
+}
+p{
+    margin: 30px 15px;
+    background-color: blueviolet;
+    color: cyan;
+}
+
+
+
